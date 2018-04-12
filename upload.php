@@ -20,14 +20,14 @@ by m3nstr1x
 -->
 <!DOCTYPE html>
 <html>
-<head>
-<title>Upload By v0ld3x</title>
-</head>
-<body>
- <h1 style="font-family: Courier New; font-size:30px; ">Upload By v0ld3x</h1><br>
-<form action="" method="post" enctype="multipart/form-data">
-<input type="file" name="pic" />
-<button type="submit" name="btn-upload">upload</button>
-</form>
-</body>
+  <head>
+      <title>Upload By v0ld3x</title>
+  </head>
+     <body>
+           <h1 style="font-family: Courier New; font-size:30px; ">Upload By v0ld3x</h1><br>
+               <form action="" method="post" enctype="multipart/form-data">
+               <input type="file" name="pic" />
+               <button type="submit" name="btn-upload">upload</button>
+          </form>
+     </body>
 </html>
